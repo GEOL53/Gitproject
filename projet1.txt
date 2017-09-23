@@ -1,0 +1,3 @@
+
+n premier projet dans le domaine, serais de supprimé la télécommande d'un panneau a message variable et d'en prendre le contole avec un device mobile.
+
